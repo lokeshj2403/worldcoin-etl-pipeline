@@ -133,9 +133,9 @@ ETL-Pipeline/
 ├── main.py           # ETL orchestration script
 ├── .env              # Environment variables (MySQL credentials)
 ├── requirements.txt  # Python dependencies
-
-
+```
 ---
+
 
 ## Key Findings
 
@@ -161,6 +161,6 @@ ETL-Pipeline/
 Contributions are welcome!
 Please open an issue or submit a pull request for enhancements, optimizations, or extensions.
 
----
+
 
 
